@@ -1,1 +1,1 @@
-![Image alt](screen.png)
+![Image alt](screensot.png)
